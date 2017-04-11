@@ -1,0 +1,12 @@
+
+security:
+  user:
+    name: globo
+    password: Pass4globo
+
+server:
+  port: 8101
+ 
+#logging:
+#  config: classpath:log4j.properties
+
